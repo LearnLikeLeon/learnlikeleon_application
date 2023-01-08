@@ -17,6 +17,7 @@ function App() {
         >
           Learn how to deploy a static website
         </a>
+        <p> Thanks You...</p>
       </header>
     </div>
   );
